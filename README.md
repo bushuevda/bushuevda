@@ -2,7 +2,7 @@
 
 ---
 <div align="center" width="960">
-  <img src="https://github.com/user-attachments/assets/efeae18d-a060-428b-a5c1-81eecf8a7e05" width="1060" height="350"/>
+  <img src="https://github.com/user-attachments/assets/aacadea1-0c6e-4310-bf4b-345d2de61696" width="1060" height="370"/>
 </div>
 
 ## Hi, I am Dmitrii Bushuev 👋
