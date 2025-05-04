@@ -7,16 +7,11 @@
 
 ## Hi, I am Dmitrii Bushuev 👋
 
-
-
-
-
-
-### About Me :
 I am a Full Stack Developer.
 
 
-# Main programming language:
+
+### My programming language basics:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
