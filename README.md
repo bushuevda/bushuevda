@@ -89,10 +89,12 @@ I am a Full Stack Developer.
 ---
 <div id="badges" style="background-color:'white'">
   <a href="https://www.linkedin.com/in/dmitrii-bushuev-1b422826a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.artstation.com/bushuevda">
+    <img src="https://github.com/user-attachments/assets/3f9c0025-2fc6-43c2-8e05-bd80bccb92b2" alt="Artistation"  width=100 height=30/>
   </a>
 
-  </a>
 </div>
 
 
