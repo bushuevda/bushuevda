@@ -88,7 +88,7 @@ I am a Full Stack Developer.
 
 ---
 <div id="badges" style="background-color:'white'">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/dmitrii-bushuev-1b422826a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
