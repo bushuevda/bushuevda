@@ -11,7 +11,7 @@ I am a Full Stack Developer.
 
 
 
-### My programming language basics:
+### My main programming languages:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
