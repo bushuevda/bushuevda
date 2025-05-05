@@ -29,7 +29,7 @@ I am a Full Stack Developer.
   
 </summary>
 
-### Gamedev skills:
+### Gamedev:
 
 
 <div>
@@ -38,7 +38,7 @@ I am a Full Stack Developer.
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" **alt="Unity" width="40" height="40"/>
 </div>
 
-### Frontend skills:
+### Frontend:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -48,7 +48,7 @@ I am a Full Stack Developer.
 
 </div>
 
-### Backend skills:
+### Backend:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" **alt="FastAPI" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" **alt="Flask" width="40" height="40"/>
@@ -59,7 +59,7 @@ I am a Full Stack Developer.
 </div>
 
 
-### ML skills:
+### ML:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" **alt="PyTorch" width="40" height="40"/>
@@ -70,7 +70,7 @@ I am a Full Stack Developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
 </div>
 
-### Other skills:
+### Other:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
